@@ -9,8 +9,6 @@
 Визуализация ключевых метрик и анализ эффективности продаж
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sales-dashboard.streamlit.app)
-[![GitHub stars](https://img.shields.io/github/stars/username/sales-dashboard?style=social)](https://github.com/username/sales-dashboard/stargazers)
-[![GitHub license](https://img.shields.io/github/license/username/sales-dashboard)](https://github.com/username/sales-dashboard/blob/main/LICENSE)
 
 ---
 

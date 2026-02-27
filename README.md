@@ -1,13 +1,10 @@
-# 📊 Sales Analytics Dashboard
+# 📊 Sales Analytics Dashboard 
+**Интерактивный дашборд для анализа продаж**  
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Plotly](https://img.shields.io/badge/Plotly-5.18.0-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 [![Pandas](https://img.shields.io/badge/Pandas-2.1.3-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-
-**Интерактивный дашборд для анализа продаж**  
-Визуализация ключевых метрик и анализ эффективности продаж
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sales-dashboard.streamlit.app)
 
 ---
